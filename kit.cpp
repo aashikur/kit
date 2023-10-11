@@ -1,3 +1,7 @@
+// Google Sheets lint
+// tau.id/3yocp
+
+
 #define ll long long
 
 #define sci(x) scanf("%d",&x)
